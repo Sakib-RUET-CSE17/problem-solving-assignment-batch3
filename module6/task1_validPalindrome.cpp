@@ -23,5 +23,5 @@ int main() {
 /*
 Complexity:
 Time: O(n), where n is the size of the string
-Space: O(1)
+Space: O(n), for stack space used for recursion
 */
